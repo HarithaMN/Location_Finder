@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586162011434",
+    "project_id": "locationfinder-67b36",
+    "storage_bucket": "locationfinder-67b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586162011434:android:9e1d6bc83661c12f4cf253",
+        "android_client_info": {
+          "package_name": "com.example.haritha_location_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586162011434-va632mf5atj73jabmhv2a5g6ck2dkcia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haritha_location_finder",
+            "certificate_hash": "4ac76fa846582a21e6e7e623f4a59662dc8a159c"
+          }
+        },
+        {
+          "client_id": "586162011434-q17fdqpr33gjnj5fm8ms2lt9qnsn9jos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMZELchFy0vRRyiFqL-C9d9j2NJGPTSj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586162011434-q17fdqpr33gjnj5fm8ms2lt9qnsn9jos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
