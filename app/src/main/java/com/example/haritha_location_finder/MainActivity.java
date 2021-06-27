@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
             gMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(location.getLatitude(), location.getLongitude()), 12.0f));
             gMap.addMarker(new MarkerOptions()
             .position(new LatLng(location.getLatitude(), location.getLongitude()))
-            .snippet("Home")).showInfoWindow();
+            .snippet("My Location")).showInfoWindow();
         }
     }
 }
